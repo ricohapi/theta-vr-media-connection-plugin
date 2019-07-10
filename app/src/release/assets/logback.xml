@@ -1,0 +1,16 @@
+<configuration>
+    <!-- Create a logcat appender -->
+    <appender name="logcat" class="ch.qos.logback.classic.android.LogcatAppender">
+        <encoder>
+            <pattern>[%-16thread] [%-5level] %msg</pattern>
+        </encoder>-->
+    </appender>
+
+    <!-- setting level -->
+    <logger name="org.eclipse.jetty" level="WARN"/>
+
+    <root level="INFO">
+        <appender-ref ref="logcat" />
+    </root>
+
+</configuration>

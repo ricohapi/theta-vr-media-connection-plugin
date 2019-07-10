@@ -1,0 +1,194 @@
+- artifact: com.android.support:support-media-compat:+
+  name: Android Support Libraries
+  copyrightHolder: The Android Open Source Project
+  license: The Apache Software License, Version 2.0
+  licenseUrl: http://www.apache.org/licenses/LICENSE-2.0.txt
+  url: http://developer.android.com/tools/extras/support-library.html
+- artifact: com.android.support:support-compat:+
+  name: Android Support Library compat
+  copyrightHolder: The Android Open Source Project
+  license: The Apache Software License, Version 2.0
+  licenseUrl: http://www.apache.org/licenses/LICENSE-2.0.txt
+  url: http://developer.android.com/tools/extras/support-library.html
+- artifact: com.android.support:support-fragment:+
+  name: Android Support Libraries
+  copyrightHolder: The Android Open Source Project
+  license: The Apache Software License, Version 2.0
+  licenseUrl: http://www.apache.org/licenses/LICENSE-2.0.txt
+  url: http://developer.android.com/tools/extras/support-library.html
+- artifact: com.android.support:support-annotations:+
+  name: Android Support Library Annotations
+  copyrightHolder: The Android Open Source Project
+  license: The Apache Software License, Version 2.0
+  licenseUrl: http://www.apache.org/licenses/LICENSE-2.0.txt
+  url: http://developer.android.com/tools/extras/support-library.html
+- artifact: com.android.support.constraint:constraint-layout:+
+  name: Android ConstraintLayout
+  copyrightHolder: The Android Open Source Project
+  license: The Apache Software License, Version 2.0
+  licenseUrl: http://www.apache.org/licenses/LICENSE-2.0.txt
+  url: http://tools.android.com
+- artifact: com.android.support:support-vector-drawable:+
+  name: Android Support VectorDrawable
+  copyrightHolder: The Android Open Source Project
+  license: The Apache Software License, Version 2.0
+  licenseUrl: http://www.apache.org/licenses/LICENSE-2.0.txt
+  url: http://developer.android.com/tools/extras/support-library.html
+- artifact: com.android.support:support-core-utils:+
+  name: Android Support Libraries
+  copyrightHolder: The Android Open Source Project
+  license: The Apache Software License, Version 2.0
+  licenseUrl: http://www.apache.org/licenses/LICENSE-2.0.txt
+  url: http://developer.android.com/tools/extras/support-library.html
+- artifact: com.android.support:support-v4:+
+  name: Android Support Libraries
+  copyrightHolder: The Android Open Source Project
+  license: The Apache Software License, Version 2.0
+  licenseUrl: http://www.apache.org/licenses/LICENSE-2.0.txt
+  url: http://developer.android.com/tools/extras/support-library.html
+- artifact: com.android.support:appcompat-v7:+
+  name: Android AppCompat Library v7
+  copyrightHolder: The Android Open Source Project
+  license: The Apache Software License, Version 2.0
+  licenseUrl: http://www.apache.org/licenses/LICENSE-2.0.txt
+  url: http://developer.android.com/tools/extras/support-library.html
+- artifact: com.android.support:support-core-ui:+
+  name: Android Support Libraries
+  copyrightHolder: The Android Open Source Project
+  license: The Apache Software License, Version 2.0
+  licenseUrl: http://www.apache.org/licenses/LICENSE-2.0.txt
+  url: http://developer.android.com/tools/extras/support-library.html
+- artifact: com.android.support:animated-vector-drawable:+
+  name: Android Support AnimatedVectorDrawable
+  copyrightHolder: The Android Open Source Project
+  license: The Apache Software License, Version 2.0
+  licenseUrl: http://www.apache.org/licenses/LICENSE-2.0.txt
+  url: http://developer.android.com/tools/extras/support-library.html
+- artifact: com.android.support.constraint:constraint-layout-solver:+
+  name: Android ConstraintLayout Solver
+  copyrightHolder: The Android Open Source Project
+  license: The Apache Software License, Version 2.0
+  licenseUrl: http://www.apache.org/licenses/LICENSE-2.0.txt
+  url: http://tools.android.com
+- artifact: org.eclipse.jetty:jetty-continuation:+
+  name: Jetty::Continuation
+  copyrightHolder: The Eclipse Foundation
+  license: Eclipse Public License - v 1.0
+  url: http://www.eclipse.org/jetty
+- artifact: org.eclipse.jetty:jetty-io:+
+  name: Jetty::IO Utility
+  copyrightHolder: The Eclipse Foundation
+  license: The Apache Software License, Version 2.0
+  url: http://www.eclipse.org/jetty
+- artifact: org.eclipse.jetty:jetty-util:+
+  name: Jetty::Utilities
+  copyrightHolder: The Eclipse Foundation
+  license: Eclipse Public License - v 1.0
+  url: http://www.eclipse.org/jetty
+- artifact: org.eclipse.jetty:jetty-servlet:+
+  name: Jetty::Servlet Handling
+  copyrightHolder: The Eclipse Foundation
+  license: Eclipse Public License - v 1.0
+  url: http://www.eclipse.org/jetty
+- artifact: org.eclipse.jetty:jetty-security:+
+  name: Jetty::Security
+  copyrightHolder: The Eclipse Foundation
+  license: Eclipse Public License - v 1.0
+  url: http://www.eclipse.org/jetty
+- artifact: org.eclipse.jetty:jetty-client:+
+  name: Jetty::Asynchronous HTTP Client
+  copyrightHolder: The Eclipse Foundation
+  license: Eclipse Public License - v 1.0
+  url: http://www.eclipse.org/jetty
+- artifact: org.eclipse.jetty.orbit:javax.servlet:+
+  name: Jetty Orbit::Servlet API
+  copyrightHolder: The Eclipse Foundation
+  license: Eclipse Public License - v 1.0
+- artifact: org.eclipse.jetty:jetty-server:+
+  name: Jetty::Server Core
+  copyrightHolder: The Eclipse Foundation
+  license: Eclipse Public License - v 1.0
+  url: http://www.eclipse.org/jetty
+- artifact: org.eclipse.jetty:jetty-http:+
+  name: Jetty::Http Utility
+  copyrightHolder: The Eclipse Foundation
+  license: Eclipse Public License - v 1.0
+  url: http://www.eclipse.org/jetty
+- artifact: org.seamless:seamless-xml:+
+  name: Seamless XML
+  copyrightHolder: 4th Line GmbH
+  license: The GNU Lesser General Public License Version 2
+- artifact: org.fourthline.cling:cling-core:+
+  name: Cling Core
+  copyrightHolder: 4th Line GmbH
+  license: The GNU Lesser General Public License Version 2
+- artifact: org.fourthline.cling:cling-support:+
+  name: Cling Support
+  copyrightHolder: 4th Line GmbH
+  license: The GNU Lesser General Public License Version 2
+- artifact: org.seamless:seamless-util:+
+  name: Seamless Utilities
+  copyrightHolder: 4th Line GmbH
+  license: The GNU Lesser General Public License Version 2
+- artifact: org.seamless:seamless-http:+
+  name: Seamless HTTP
+  copyrightHolder: 4th Line GmbH
+  license: The GNU Lesser General Public License Version 2
+- artifact: org.seamless:seamless-swing:+
+  name: Seamless Swing
+  copyrightHolder: 4th Line GmbH
+  license: The GNU Lesser General Public License Version 2
+- artifact: org.nanohttpd:nanohttpd-webserver:+
+  name: NanoHttpd-Webserver
+  copyrightHolder: 2012-2013 by Paul S. Hawke, 2001,2005-2013 by Jarno Elonen, 2010 by Konstantinos Togias
+  license: BSD
+- artifact: org.nanohttpd:nanohttpd:+
+  name: NanoHttpd-Core
+  copyrightHolder: 2012-2013 by Paul S. Hawke, 2001,2005-2013 by Jarno Elonen, 2010 by Konstantinos Togias
+  license: BSD
+
+
+- artifact: org.theta4j:theta-web-api:+
+  name: THETA Web API Client
+  copyrightHolder: 2019 theta4j project
+  license: The Apache License, Version 2.0
+  licenseUrl: http://www.apache.org/licenses/LICENSE-2.0.txt
+  url: https://github.com/theta4j/theta-web-api
+- artifact: com.burgstaller:okhttp-digest:+
+  name: okhttp-digest
+  copyrightHolder: rburgst/okhttp-digest
+  license: The Apache License, Version 2.0
+- artifact: org.slf4j:slf4j-api:+
+  name: SLF4J API Module
+  copyrightHolder: 2004-2017 QOS.ch
+  license: MIT license
+  url: http://www.slf4j.org
+- artifact: com.github.tony19:logback-android:+
+  name: logback-android
+  copyrightHolder: tony19/logback-android
+  license: "The Apache Software License, Version 2.0"
+  licenseUrl: https://www.apache.org/licenses/LICENSE-2.0
+  url: https://github.com/tony19/logback-android
+- artifact: com.google.code.findbugs:jsr305:+
+  name: FindBugs-jsr305
+  copyrightHolder: 2008 Google Inc.
+  license: The Apache Software License, Version 2.0
+  licenseUrl: http://www.apache.org/licenses/LICENSE-2.0.txt
+  url: http://findbugs.sourceforge.net/
+- artifact: com.google.code.gson:gson:+
+  name: Gson
+  copyrightHolder: 2008 Google Inc.
+  license: The Apache License, Version 2.0
+- artifact: com.squareup.okhttp3:okhttp:+
+  name: OkHttp
+  copyrightHolder: 2016 Square, Inc.
+  license: The Apache License, Version 2.0
+- artifact: commons-io:commons-io:+
+  name: Apache Commons IO
+  copyrightHolder: 2002-2017 The Apache Software Foundation
+  license: The Apache License, Version 2.0
+  url: http://commons.apache.org/proper/commons-io/
+- artifact: com.squareup.okio:okio:+
+  name: Okio
+  copyrightHolder: 2013 Square, Inc.
+  license: The Apache License, Version 2.0
