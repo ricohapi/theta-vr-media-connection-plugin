@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/pluginlibrary/pluginlibrary.iml" filepath="$PROJECT_DIR$/pluginlibrary/pluginlibrary.iml" />
-      <module fileurl="file://$PROJECT_DIR$/theta-media-server-plugin.iml" filepath="$PROJECT_DIR$/theta-vr-media-connection-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/theta-vr-media-connection-plugin.iml" filepath="$PROJECT_DIR$/theta-vr-media-connection-plugin.iml" />
     </modules>
   </component>
 </project>
